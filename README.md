@@ -13,6 +13,7 @@ It assumes includes will be in a folder called “include” and source files will b
 
 ###Commands
 Here are the commands to use with the Makefile
+
 	make                       // Build Release version ARM
 	make BUILD=devel           // Build Debug version ARM
 	make BUILD=rel             // Build Release version ARM
